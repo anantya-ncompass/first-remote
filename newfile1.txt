@@ -4,3 +4,5 @@ anantya
 restore
 delete
 stash
+my name is anantya
+local repository
