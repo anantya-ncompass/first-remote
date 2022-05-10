@@ -1,3 +1,6 @@
 hello world!
 Have a nice day
 anantya
+restore
+delete
+stash
